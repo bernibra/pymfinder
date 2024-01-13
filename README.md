@@ -1,4 +1,4 @@
-##pymfinder
+# pymfinder
 
 **pymfinder** is Python package with which to find network motifs in complex networks and to analyze a growing list of network-motif related *stuff*.
 
